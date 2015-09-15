@@ -6,13 +6,13 @@ This template will include all of the user interface elements that are available
 
 ## Not Ready For Use
 
-This is barebones at the moment. Do not use it. Will update README when ready.
+This is barebones at the moment. Do not use it. Will update when ready.
 
-## TODO
+## To Do List / Progress
 
-Keep track of progress by viewing the todo list below.s
+Keep track of progress by viewing the todo list below.
 
-### Key
+#### Key
 
 (#) - Image Name
 //# - Comment
