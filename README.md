@@ -4,6 +4,8 @@ Attempting to create a Sketch template to help with creating themes for Sublime 
 
 This template will include all of the user interface elements that are available in Sublime Text. Or, at the very least, all that is needed to create a complete theme.
 
+![Screenshot of current progress](http://dch.link/d7Ah/Image%202015-09-15%20at%201.13.43%20PM.png)
+
 ## Not Ready For Use
 
 This is barebones at the moment. Do not use it. Will update when ready.
