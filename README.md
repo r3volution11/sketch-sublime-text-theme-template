@@ -56,70 +56,70 @@ Keep track of progress by viewing the todo list below.
 
 ### Overlay Panels
 
-[ ] overlay_control  (overlay-bg)  
-[ ] mini_quick_panel_row  
-[ ] mini_quick_panel_row::selected  
-[ ] quick_panel  (quick-panel-background)  
-[ ] quick_panel_row  // project manager  
-[ ] quick_panel_row  // common panel - cmd + shift + p  
-[ ] quick_panel  // inside overlay_control - cmd + shift + p)  
-[ ] quick_panel_row::selected  
-[ ] quick_panel_label  
-[ ] quick_panel_path_label  
-[ ] quick_panel_score_label  
+[x] overlay_control  (overlay-bg)  
+[x] mini_quick_panel_row  
+[x] mini_quick_panel_row::selected  
+[x] quick_panel  (quick-panel-background)  
+[x] quick_panel_row  // project manager  
+[x] quick_panel_row  // common panel - cmd + shift + p  
+[x] quick_panel  // inside overlay_control - cmd + shift + p)  
+[x] quick_panel_row::selected  
+[x] quick_panel_label  
+[x] quick_panel_path_label  
+[x] quick_panel_score_label  
 
 ### Tabs
 
 [x] tab_control  // tab background  
 [x] tab_control::selected  (tab-current)  
-[ ] tab_control::hover  
-[ ] tab_control::selected::hover  
+[x] tab_control::hover  
+[x] tab_control::selected::hover  
 [x] tab_label  
 [x] tab_label::selected  
 
 ### Tab Icons
 
 [ ] tab_close_button  
-[ ] tab_close_button icon  (close-icon)  
-[ ] tab_close_button icon::hover  (close-icon--hover)  
+[x] tab_close_button icon  (close-icon)  
+[x] tab_close_button icon::hover  (close-icon--hover)  
 [x] tab_close_button dirty icon  (dirty-icon)  
-[ ] tab_close_button dirty icon::hover  (dirty-icon--hover)  
+[x] tab_close_button dirty icon::hover  (dirty-icon--hover)  
 
 ### Tabset
 
 [x] scroll_tabs_left_button  (arrow-left)  
-[ ] scroll_tabs_left_button::hover  (arrow-left--hover)  
+[x] scroll_tabs_left_button::hover  (arrow-left--hover)  
 [x] scroll_tabs_right_button  (arrow-right)  
-[ ] scroll_tabs_right_button::hover  (arrow-right-hover)  
+[x] scroll_tabs_right_button::hover  (arrow-right-hover)  
 
 ### Tab Overflow
 
-[ ] show_tabs_dropdown_button  (overflow-menu)  
-[ ] show_tabs_dropdown_button::hover  (overflow-menu--hover)  
+[x] show_tabs_dropdown_button  (overflow-menu)  
+[x] show_tabs_dropdown_button::hover  (overflow-menu--hover)  
 
 ### Sidebar
 
 [x] sidebar_container  
-[ ] sidebar_tree  
-[ ] sidebar_heading  
+[x] sidebar_tree  
+[x] sidebar_heading  
 [ ] sidebar_heading::selected (tree_highlight.png)  
-[ ] sidebar_label  
+[x] sidebar_label  
 [ ] sidebar_label::hover  
 [ ] sidebar_label::selected  
-[ ] sidebar_label::expandable  
+[x] sidebar_label::expandable  
 [ ] sidebar_label::expandable::selected  
-[ ] sidebar_label::expanded  
+[x] sidebar_label::expanded  
 [ ] sidebar_label::expanded::selected  
 
 ### Icons
 
 #### Files
 
-[ ] icon_file_type (file labels)  
+[x] icon_file_type (file labels)  
 
 #### Folder
 
-[ ] icon_folder  (folder)  
+[x] icon_folder  (folder)  
 [ ] icon_folder::hover  (folder--hover)  
 [ ] icon_folder::expanded::hover  (folder-expanded--hover)  
 [ ] icon_folder_loading  (spinner-##)  // animated with 10 frames  
