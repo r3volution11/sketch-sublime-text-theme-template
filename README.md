@@ -6,7 +6,7 @@ This template will include all of the user interface elements that are available
 
 Each element is grouped and labelled as is necessary in a Sublime Text Theme file. Some are included without any styles at all. However they will still help with determining the proper settings.
 
-## Screenshot of Current Progres
+## Screenshot of Current Progress
 
 ![Screenshot of current progress](http://dch.link/dFoj/Image%202015-09-19%20at%201.17.09%20AM.png)
 
