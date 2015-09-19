@@ -12,7 +12,7 @@ Each element is grouped and labelled as is necessary in a Sublime Text Theme fil
 
 ## Not Quite Ready For Use
 
-This is about 75% done. At this point it's rather helpful but not all of the way there. The status bar and widget panel are up next. After that I'll be working on a set of icons for file types.
+This is about 75% done. At this point it's rather helpful but not all of the way there. The status bar and widget panel are up next. After that I'll be working on a set of **pixel perfect** icons for file types.
 
 ## To Do List / Progress
 
