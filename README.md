@@ -4,15 +4,19 @@ Attempting to create a Sketch template to help with creating themes for Sublime 
 
 This template will include all of the user interface elements that are available in Sublime Text. Or, at the very least, all that is needed to create a complete theme.
 
-![Screenshot of current progress](http://dch.link/d7Ah/Image%202015-09-15%20at%201.13.43%20PM.png)
+Each element is grouped and labelled as is necessary in a Sublime Text Theme file. Some are included without any styles at all. However they will still help with determining the proper settings.
 
-## Not Ready For Use
+## Screenshot of Current Progres
 
-This is barebones at the moment. Do not use it. Will update when ready.
+![Screenshot of current progress](http://dch.link/dFoj/Image%202015-09-19%20at%201.17.09%20AM.png)
+
+## Not Quite Ready For Use
+
+This is about 75% done. At this point it's rather helpful but not all of the way there. The status bar and widget panel are up next. After that I'll be working on a set of icons for file types.
 
 ## To Do List / Progress
 
-Keep track of progress by viewing the todo list below.
+You can keep track of my progress by viewing this to do list.
 
 #### Key
 
@@ -121,7 +125,7 @@ Keep track of progress by viewing the todo list below.
 
 [x] icon_folder  (folder)  
 [ ] icon_folder::hover  (folder--hover)  
-[ ] icon_folder::expanded::hover  (folder-expanded--hover)  
+[x] icon_folder::expanded::hover  (folder-expanded--hover)  
 [ ] icon_folder_loading  (spinner-##)  // animated with 10 frames  
 
 #### Symlink Folder
@@ -132,18 +136,18 @@ Keep track of progress by viewing the todo list below.
 
 ### Scrollbars
 
-[ ] scroll_bar_control  (normal-bar-vertical)  
-[ ] scroll_bar_control.overlay-control  
-[ ] scroll_bar_control::horizontal  
-[ ] scroll_bar_control.overlay-control::horizontal  
-[ ] scroll_corner_control  (normal_bar_corner)  
-[ ] puck_control  (thumb-vertical)  
-[ ] puck_control::horizontal  (thumb-horizontal)  
+[x] scroll_bar_control  (scroll-bar-vertical)
+[x] scroll_bar_control.overlay-control
+[x] scroll_bar_control::horizontal  (scroll-bar-horizontal)
+[x] scroll_bar_control.overlay-control::horizontal
+[x] scroll_corner_control  (scroll-bar-corner)
+[x] puck_control  (puck-vertical)
+[x] puck_control::horizontal  (puck-horizontal)
 
 ### Minimap
 
-[ ] minimap_control  
-[ ] minimap_control::hover  
+[x] minimap_control  
+[x] minimap_control::hover  
 
 ### Status Bar
 
