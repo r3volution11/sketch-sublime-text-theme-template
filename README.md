@@ -8,7 +8,7 @@ Each element is grouped and labelled to reflect it's Sublime Text Theme counterp
 
 ## Progress
 
-![Screenshot of current progress](http://dch.link/dJeU/Image%202015-09-19%20at%2010.08.35%20PM.png)
+![Screenshot of current progress](http://dch.link/dJzW/Image%202015-09-19%20at%2010.13.03%20PM.png)
 
 ### 90% Ready
 
