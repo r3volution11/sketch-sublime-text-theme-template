@@ -14,7 +14,9 @@ Almost every element is now included in the template. Those that aren't are like
 
 ## Icons
 
-The template utilizes Google's Material Design icons and those contributed to materialdesignicons.com. In addition several have been created by me.
+The template utilizes Google's Material Design icons and those contributed to [Material Design Icons](http://materialdesignicons.com) which is generously maintained by Austin Andrews ([@templarian](https://twitter.com/templarian)). 
+
+Several of the icons have been created by yours truly. They will soon also be able at [Material Design Icons](http://materialdesignicons.com).
 
 File format icons will be added soon.
 
