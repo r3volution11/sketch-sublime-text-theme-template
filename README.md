@@ -8,15 +8,15 @@ Each element is grouped and labelled to reflect it's Sublime Text Theme counterp
 
 ## Progress
 
-![Screenshot of current progress](http://dch.link/dJzW/Image%202015-09-19%20at%2010.13.03%20PM.png)
+![Screenshot of current progress](http://dch.link/dJvH/Image%202015-09-20%20at%201.53.06%20PM.png)
 
 ### 90% Ready
 
 At this point I would think this will be helpful in creating your own theme.
 
-I plan on making this a bit more attractive while working on a set of **pixel perfect** icons for file types.
+Next up I will be converting many of the elements to symbols for easier changes.
 
-## To Do List / Progress
+## To Do List - Elements
 
 You can keep track of my progress by viewing this to do list.
 
