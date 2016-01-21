@@ -6,9 +6,13 @@ This template will include all of the user interface elements that are available
 
 Each element is grouped and labelled to reflect it's Sublime Text Theme counterpart.
 
+## Updates
+
+1/21 - Work has begun on an actual theme based on the template. Plus I fixed the screenshot below. I stopped using Cloudapp and moved to [Dropshare](https://getdropsha.re/).
+
 ## Progress
 
-![Screenshot of current progress](http://dch.link/dJvH/Image%202015-09-20%20at%201.53.06%20PM.png)
+![Screenshot of current progress](http://dch.link/Sublime-Text-Theme-Template/Sublime-Text-Theme-Template.png)
 
 Almost every element is now included in the template. Those that aren't are likely to make more sense to simply update in your actual theme file.
 
@@ -19,6 +23,14 @@ The template utilizes Google's Material Design icons and those contributed to [M
 Several of the icons have been created by yours truly. They will soon also be available at [Material Design Icons](http://materialdesignicons.com).
 
 File format icons will be added soon.
+
+## Font
+
+This template utilizes the San Francisco font created by Apple. It's freely available at [Apple's Developer Fonts](https://developer.apple.com/fonts/) page.
+
+## Feedback
+
+I welcome any feedback or issues you may have. Please let me know by creating an issue here.
 
 ## Roadmap
 
