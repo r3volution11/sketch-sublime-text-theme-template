@@ -1,4 +1,4 @@
-![Screenshot of current progress](http://dch.link/Sublime-Text-Theme-Template/Sublime-Text-Theme-Template.png)
+![Screenshot of current progress](http://dch.link/YkSL9XZCaJ/sttt-screenshot.png)
 
 # Sketch Sublime Text Theme Template
 
